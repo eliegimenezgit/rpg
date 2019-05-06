@@ -5,16 +5,16 @@ __________________________
 
 How to choise your name game:
 
-Z,Q,S,D   ->   Move
-Enter     ->   Select
+Z,Q,S,D   ->   Move;
+Enter     ->   Select;
 
 How to play:
 
-Escape    ->   Pause menu
-Z,Q,S,D   ->   Move
-Tab       ->   Inventory
-Mouse     ->   Viewfinder
-Clic      ->   Shoot
+Escape    ->   Pause menu;
+Z,Q,S,D   ->   Move;
+Tab       ->   Inventory;
+Mouse     ->   Viewfinder;
+Clic      ->   Shoot;
 __________________________
 
 Thank you, good game !
